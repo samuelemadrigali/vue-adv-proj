@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "email": "samuelemadrigali1991@gmail.com",
+      "password": "$2a$10$dX9CY.v6/cUEFDtvk3/m8u7eqAaJp7P6Yfg44MSSIBpqfMMI23x.K",
+      "firstName": "Samuele",
+      "id": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Telefonia"
+    },
+    {
+      "id": 2,
+      "name": "Computer"
+    },
+    {
+      "id": 3,
+      "name": "Tablet"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Macbook pro",
+      "price": 1500,
+      "image": "https://via.placeholder.com/350",
+      "categoryId": 2
+    },
+    {
+      "name": "Iphone 14",
+      "price": "1400",
+      "image": "https://via.placeholder.com/350",
+      "id": 2,
+      "categoryId": 1
+    },
+    {
+      "name": "Apple watch",
+      "price": "500",
+      "image": "https://via.placeholder.com/350",
+      "id": 3,
+      "categoryId": 1
+    },
+    {
+      "name": "Ipad",
+      "price": "1000",
+      "image": "https://via.placeholder.com/350",
+      "id": 4
+    }
+  ]
+}
